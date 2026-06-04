@@ -437,8 +437,5 @@ It is one step forward in my journey toward becoming a skilled **Data Analyst**.
 ## Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/yash-vargaonkar/
-* GitHub: 
+* GitHub: https://github.com/yash-vargaonkar
 
-* GitHub: Add your GitHub profile link here
-
-* GitHub: Add your GitHub profile link here
